@@ -1,17 +1,17 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# ¡Hola, bienvenido a mi repositorio!
 
-![imagen](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![imagen]([https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png](https://s3.amazonaws.com/media-p.slid.es/uploads/95/images/7666381/intecap_-02.png))
 
-## Herramientas utilizadas:
+## Proyectos o tareas Realizadas:
 
-* HTML
+* (Tarea 1)
 
-* CSS
+* (Tarea 2)
 
-* Flex-box
+* (Tarea 3)
 
 ## Hecho por:
 
-###Ana García
+### César Antonio Morales
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: www.linkedin.com/in/antonio-morales-02b2b6275
